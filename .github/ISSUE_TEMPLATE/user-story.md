@@ -1,7 +1,7 @@
 ---
-name: User Stories for Boutique Ado v1
-about: 'User Story: <TITLE>'
-title: ''
+name: User Story
+about: This is our default user story template
+title: 'User Story: <TITLE>'
 labels: ''
 assignees: ''
 
